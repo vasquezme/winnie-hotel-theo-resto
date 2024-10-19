@@ -30,4 +30,10 @@ PowerBI Locations Summary:
 
 ArcMap:
 
+![ArcMap](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winnieshoteltheosrestomap.jpg)
+
+
+ArcMap with buffers:
+
+![ArcMap with Buffers](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winnietheobuffers.jpg)
 
