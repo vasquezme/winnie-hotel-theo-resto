@@ -7,3 +7,23 @@ Tools used include:
 - MS SQL
 - Power BI
 - ESRI ArcMap Pro
+
+Data Model:
+
+![Databasediagrams](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-datamodel.png)
+
+Locations:
+
+![Locations](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-locationstbl1.png)
+
+SalesbyMonth:
+
+![SalesbyMonth](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-salesbymonthtbl.png)
+
+Customers and Locations Map:
+
+![CustomersandLocationsMap](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotel-customers.png)
+
+PowerBI Locations Summary:
+
+![PowerBISummary](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-summary.png)
