@@ -27,3 +27,7 @@ Customers and Locations Map:
 PowerBI Locations Summary:
 
 ![PowerBISummary](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-summary.png)
+
+ArcMap:
+
+
